@@ -13,7 +13,7 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@hanseartic/remark-env-directive": "^1.0.3",
     "@hanseartic/remark-qrcode-directive": "^1.0.5",
-    "@stellar/freighter-api": "^1.4.0",
+    "@stellar/freighter-api": "^4.1.0",
     "antd": "^5.14.2",
     "bignumber.js": "^9.1.2",
     "ejs": "^3.1.10",
